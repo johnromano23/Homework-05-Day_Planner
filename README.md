@@ -1,3 +1,5 @@
+Link for day planner - https://johnromano23.github.io/Homework-05-Day_Planner/
+
 # Homework-05-Day_Planner
 Day planner assignment 
 # 05 Third-Party APIs: Work Day Scheduler
