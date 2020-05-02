@@ -1,4 +1,4 @@
-Link for day planner - 
+Link for day planner - https://johnromano23.github.io/Homework-05-Work-Day-Scheduler/
 
 # Homework-05-Day_Planner
 Day planner assignment 
