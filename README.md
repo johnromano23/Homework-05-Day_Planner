@@ -16,7 +16,9 @@ This is a simple application that uses basic front-end development. It functions
 
 ## Usage
 Access the application by clicking on the application link. To test the application, simply write something in any of the time blocks and click the corresponding save button next  to it. Reload the page and the saved item should still be on the time block. 
+
 ## Future Development
+* Include a clear button function to clear out items
 
 ## License
 
