@@ -22,6 +22,6 @@ Access the application by clicking on the application link. To test the applicat
 * Design the application more dynamically/ add colors
 
 ## License
-
+This application is licensed under MIT
 
 ## Developer
