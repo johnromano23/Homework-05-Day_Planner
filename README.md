@@ -19,6 +19,7 @@ Access the application by clicking on the application link. To test the applicat
 
 ## Future Development
 * Include a clear button function to clear out items
+* Design the application more dynamically/ add colors
 
 ## License
 
