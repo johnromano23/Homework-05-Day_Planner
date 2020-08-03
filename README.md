@@ -25,3 +25,5 @@ Access the application by clicking on the application link. To test the applicat
 This application is licensed under MIT
 
 ## Developer
+This application is developed by John Michael Romano
+* https://github.com/johnromano23
